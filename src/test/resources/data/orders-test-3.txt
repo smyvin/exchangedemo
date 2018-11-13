@@ -1,0 +1,18 @@
+C1	b	A	10	4
+C1	b	A	10	4
+C1	b	A	104
+C1	b	A	10	4
+C1	b	A	10	4
+C1	b	A	10	4
+C3	s	A	10	4
+C3	sA	10	4
+C3	s	A	10	4
+C3	s	A	10	4
+C3	s	A	10	4
+C3	s	A	10	4
+C2	s	A	10	4
+C2
+C2	s	A	10	4
+C2	s	A	10	4
+C2	s	A	10	4
+C2	s	A	10	4

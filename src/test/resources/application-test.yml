@@ -1,0 +1,4 @@
+data:
+    client: classpath:data/clients-test.txt
+    order: classpath:data/orders-test.txt
+    result: result-test.txt
