@@ -1,1 +1,2 @@
-# exchangedemo
+./gradlew build
+./gradlew bootRun
